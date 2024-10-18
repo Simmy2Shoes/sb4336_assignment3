@@ -17,5 +17,5 @@ This script allows you to create basic shapes (sphere or cube) in Autodesk Maya 
 ## Usage
 
 Run the script using **one** of the following commands:
-mayapy your_script.py sphere
-mayapy your_script.py cube
+mayapy sb4336_assignment3.py sphere
+mayapy sb4336_assignment3.py cube
